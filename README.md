@@ -12,7 +12,7 @@ the topic.
 If interested in addditional comments, I invite you to read the
 following post in my blog:
 
-<TBD>
+https://www.johncanessa.com/2023/05/27/daisy-descriptors/
 
 Remember that one of the best ways to lear is to read, experiment,
 and repeat.
